@@ -1,0 +1,28 @@
+.hero-section {
+    background-image: url("images/hero2.png");
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  .hero-section .btn-light {
+    color: #333;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+  }
+  
+  .hero-section .btn-light:hover {
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+  }
+  
+  .bg-secondary {
+    background-color: #6c757d !important;
+  }
+  
+  .bg-dark {
+    background-color: #343a40 !important;
+  }
