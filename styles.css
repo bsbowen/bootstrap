@@ -4,7 +4,14 @@
     background-position: center;
     padding: 100px 0;
     color: white;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.5);
+  }
+
+  .hero-container {
+    background-color: #333333a1;
+    max-width: max-content;
+    padding: 20px;
+    margin: 0 auto;
   }
   
   .hero-section .btn-light {
